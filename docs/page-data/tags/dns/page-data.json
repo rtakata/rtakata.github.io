@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-tags-js","path":"/tags/dns/","result":{"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/2021-05/blog-custom-domain/"},"frontmatter":{"title":"Github PagesにRoute53で取得した独自ドメインを設定する"}}}]}},"pageContext":{"tag":"DNS"}},"staticQueryHashes":[]}

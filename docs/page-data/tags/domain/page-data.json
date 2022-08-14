@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-tags-js","path":"/tags/domain/","result":{"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/2021-05/githubpage-domain-route53/"},"frontmatter":{"title":"Route53で取得したドメインをgithub-pagesに適用する"}}}]}},"pageContext":{"tag":"domain"}},"staticQueryHashes":[]}
